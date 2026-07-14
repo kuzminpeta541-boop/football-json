@@ -9,14 +9,40 @@
           "away": "🏴󠁧󠁢󠁥󠁮󠁧󠁿Англія",
           "time": "03:00",
           "score": "",
-          "videos": []
+          "videos": [
+            {
+              "title": "Футбол 2.0",
+              "url": "https://youtu.be/5BhGA8G8Y1s?si=wqaU5Wn1hvZYrvW_"
+            },
+            {
+              "title": "MEGOGO",
+              "url": "https://youtu.be/GMKNvw0as4o?si=4Hc7dSBKzHN1aRCO"
+            },
+            {
+              "title": "FIFA",
+              "url": "https://youtu.be/ydx1L0aDj_c?si=sGL2fOfwvT2iecve"
+            }
+          ]
         },
         {
           "home": "🇵🇹Португалія",
           "away": "🇪🇸Іспанія",
           "time": "22:00",
           "score": "",
-          "videos": []
+          "videos": [
+            {
+              "title": "Футбол 2.0",
+              "url": "https://youtu.be/9K4T-sHXPPY?si=GpxwQr4W9JEJI9Hj"
+            },
+            {
+              "title": "MEGOGO",
+              "url": "https://youtu.be/n7PLcHcLX-Y?si=IUc2oEOKqsljFOzO"
+            },
+            {
+              "title": "FIFA",
+              "url": "https://youtu.be/iwE1D_JQSQ8?si=lWUYvYcO8jGmbcVI"
+            }
+          ]
         }
       ]
     },
